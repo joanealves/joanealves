@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joanealves
 - 👀 I’m interested in HTML-CSS-JS-React-TypeScript-StyledComponents
-- 🌱 I am currently improving on: Redux-Bootstrap-Node-SQL-PHP-Ionic
+- 🌱 I am currently improving on: Node-SQL-PHP
 - 📫 How to reach me joanealves2011@gmail.com 
