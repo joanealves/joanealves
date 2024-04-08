@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joanealves
-- 👀 I’m interested in HTML-CSS-JS-React-TypeScript-StyledComponents
-- 🌱 I am currently improving on: Node-SQL-PHP
+- 👀 I’m interested in HTML-CSS-JS-React-TypeScript-Next-Vite-Node-SQL-PHP
+- 🌱 I am currently improving on: Python 
 - 📫 How to reach me joanealves2011@gmail.com 
