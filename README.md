@@ -19,10 +19,15 @@ Principais Tecnologias: Figma, Styled-components, Next.js, Vite, MUI, TypeScript
 
 🛠️ Tecnologias e Ferramentas
 Front-End: HTML, CSS, JavaScript, React, TypeScript
+
 Back-End: Node.js, PHP, Python
+
 Banco de Dados: SQL
+
 Design & UI/UX: Figma, Styled-components, MUI
+
 Versionamento: Git, GitHub
+
 APIs: Desenvolvimento e integração com APIs REST
 
 🌱 Em Aperfeiçoamento
@@ -30,4 +35,5 @@ Atualmente, estou aprimorando minhas habilidades em Python para desenvolvimento 
 
 📫 Vamos Conectar?
 Email: joanealves2011@gmail.com
+
 LinkedIn: linkedin.com/in/joanealves
