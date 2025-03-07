@@ -18,7 +18,7 @@ Colaboração com UX/UI para desenvolvimento de novos produtos e soluções cent
 Principais Tecnologias: Figma, Styled-components, Next.js, Vite, MUI, TypeScript.
 
 🛠️ Tecnologias e Ferramentas
-Front-End: HTML, CSS, JavaScript, React, TypeScript
+Front-End: HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Shadcn UI
 
 Back-End: Node.js, PHP, Python
 
