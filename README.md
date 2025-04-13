@@ -1,10 +1,10 @@
 👋 Olá, sou Joane Alves
-Desenvolvedora Full Stack com mais de dois anos de experiência em desenvolvimento de aplicações web. 
+Desenvolvedora Full Stack, com de experiência em desenvolvimento de aplicações web. 
 Apaixonada por criar sistemas eficientes e intuitivos que superem as expectativas dos usuários, sempre me mantenho atualizada com as mais recentes tecnologias do mercado.
 
 📍 Sobre Mim
 
-🎓 Experiência: Python, PHP, SQL, JavaScript, React, Node.
+🎓 Experiência: JavaScript, React, UXUI, Python, PHP, SQL, Node.
 
 🚀 Objetivo: Criar soluções de software de alta qualidade que resolvam problemas reais de forma inovadora e eficiente.
 
@@ -15,14 +15,14 @@ Desenvolvimento evolutivo de sistemas, ERPs e serviços sob demanda.
 Atuação em duas verticais com três projetos simultâneos:
 Full Stack Developer em projetos de alto impacto.
 Colaboração com UX/UI para desenvolvimento de novos produtos e soluções centradas no usuário.
-Principais Tecnologias: Figma, Styled-components, Next.js, Vite, MUI, TypeScript.
+Principais Tecnologias: Figma, Tailwind, Next.js, Vite, MUI, TypeScript.
 
 🛠️ Tecnologias e Ferramentas
-Front-End: HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Shadcn UI
+Front-End: HTML, CSS, JavaScript, React, TypeScript, Next, Tailwind CSS, Shadcn UI
 
 Back-End: Node.js, PHP, Python
 
-Banco de Dados: SQL
+Banco de Dados: SQL, PSQL
 
 Design & UI/UX: Figma, Styled-components, MUI
 
