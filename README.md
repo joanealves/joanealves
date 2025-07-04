@@ -37,3 +37,4 @@ Atualmente, estou aprimorando minhas habilidades em Python para desenvolvimento 
 Email: joanealves2011@gmail.com
 
 LinkedIn: [linkedin.com/in/joanealves](https://www.linkedin.com/in/joane-alves-ribeiro/)
+Site : [https://joanealves.vercel.app/]
