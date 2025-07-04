@@ -4,7 +4,7 @@ Apaixonada por criar sistemas eficientes e intuitivos que superem as expectativa
 
 📍 Sobre Mim
 
-🎓 Experiência: JavaScript, React, UXUI, Python, PHP, SQL, Node.
+🎓 Experiência: JavaScript, React, Next.js, UXUI, Python, PHP, SQL.
 
 🚀 Objetivo: Criar soluções de software de alta qualidade que resolvam problemas reais de forma inovadora e eficiente.
 
