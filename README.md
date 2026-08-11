@@ -2,7 +2,7 @@
 
 ### Front-End Engineer & Product Owner | Construindo produtos do design ao deploy
 
-Sou desenvolvedora full-stack com foco em front-end e atuação como Product Owner, unindo minha base em **UX/UI Design** a tecnologias modernas para entregar interfaces acessíveis, performáticas e centradas no usuário. Também tenho um projeto próprio, **Agro IA**, onde aplico IA a soluções para o agronegócio.
+Sou desenvolvedora front-end e Product Owner, unindo minha base em **UX/UI Design** a tecnologias modernas para entregar interfaces acessíveis, performáticas e centradas no usuário. Também tenho um projeto próprio, **Agro IA**, onde aplico IA a soluções para o agronegócio.
 
 ---
 
