@@ -8,24 +8,24 @@ Sou desenvolvedora front-end e Product Owner, unindo minha base em **UX/UI Desig
 
 ### 🚀 Sobre mim
 
-- 🎯 **Front-End:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, ShadCN UI, Vite, MUI, Styled-components
-- 🛠️ **Back-End:** Node.js, Python (FastAPI), PHP
-- 🗄️ **Banco de Dados:** PostgreSQL, MySQL, Supabase
-- 🎨 **UX/UI & Acessibilidade:** Figma, prototipagem, WCAG / A11Y
-- 📋 **Produto & Processos:** Product Ownership, Scrum, Jira, Notion
-- 🔧 **Versionamento:** Git, GitHub, Conventional Commits
+- **Front-End:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, ShadCN UI, Vite, MUI, Styled-components
+- **Back-End:** Node.js, Python (FastAPI), PHP
+- **Banco de Dados:** PostgreSQL, MySQL, Supabase
+- **UX/UI & Acessibilidade:** Figma, prototipagem, WCAG / A11Y
+- **Produto & Processos:** Product Ownership, Scrum, Jira, Notion
+- **Versionamento:** Git, GitHub, Conventional Commits
 
 **Atualmente:**
-- 💼 Desenvolvendo interfaces e componentização de design systems em produtos web
-- 📌 Atuando como Product Owner, organizando sprints, backlog e alinhamento de OKRs
-- 🌱 Construindo a **Agro IA**, um projeto próprio aplicando IA ao agronegócio
-- 📚 Aprimorando conhecimentos em Python e arquiteturas back-end, sem perder o foco em front-end avançado
+- Desenvolvendo interfaces e componentização de design systems em produtos web
+- Atuando como Product Owner, organizando sprints, backlog e alinhamento de OKRs
+- Construindo a **Agro IA**, um projeto próprio aplicando IA ao agronegócio
+- Aprimorando conhecimentos em Python e arquiteturas back-end, sem perder o foco em front-end avançado
 
 
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -50,7 +50,7 @@ Sou desenvolvedora front-end e Product Owner, unindo minha base em **UX/UI Desig
 
 ---
 
-### 📫 Vamos conectar?
+### Vamos conectar?
 
 <p align="left">
   <a href="mailto:joane.desenvolvimentoweb@gmail.com">
