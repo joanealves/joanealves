@@ -1,4 +1,4 @@
-# Joane Alves Ribeiro
+# Joane Alves
 
 **Front-end Engineer & Product Manager** · React · Next.js · TypeScript · Python
 
